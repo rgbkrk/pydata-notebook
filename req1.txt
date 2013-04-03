@@ -1,0 +1,7 @@
+numpy
+f2py
+freetype-py
+PIL
+python-dateutil
+pytz
+six
