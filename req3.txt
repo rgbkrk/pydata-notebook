@@ -1,3 +1,6 @@
 statsmodels
-tornado >= 2.1.0
 ipython
+
+# For IPython notebook
+tornado >= 2.1.0
+pyzmq >= 2.1.4
